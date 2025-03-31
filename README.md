@@ -1,1 +1,1 @@
-# Diabeties_Prediction_Model-Small_Scale-
+# Diabeties_Prediction_Model
